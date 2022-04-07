@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="448" height="512">
+	<title>plus-solid-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="224" y1="358.5" x2="224" y2="153.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00b0ea"/>
+			<stop offset="1" stop-color="#00f0ff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m377 256c0 13-10.6 23.5-23.6 23.5h-105.9v105.9c0 13-10.5 23.6-23.5 23.6-13 0-23.5-10.6-23.5-23.6v-105.9h-105.9c-13 0-23.6-10.5-23.6-23.5 0-13 10.6-23.5 23.6-23.5h105.9v-105.9c0-13 10.5-23.6 23.5-23.6 13 0 23.5 10.6 23.5 23.6v105.9h105.9c13 0 23.6 10.5 23.6 23.5z"/>
+</svg>
